@@ -1,2 +1,2 @@
 # R-coursera
-unit tests for "R Programming" Coursera course
+RUnit tests for ["R Programming"](https://www.coursera.org/course/rprog) Coursera course
